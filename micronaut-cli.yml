@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.incred
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, aws-v2-sdk, http-client, java, java-application, junit, log4j2, lombok, management, maven, micrometer, micrometer-prometheus, netty-server, reactor, readme, shade, spring, spring-boot, yaml ]
